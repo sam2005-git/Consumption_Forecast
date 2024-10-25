@@ -1,0 +1,7 @@
+# requirements.txt
+pandas
+scikit-learn
+joblib
+selenium
+pytest
+PyYAML
